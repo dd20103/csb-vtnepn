@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://dd20103.github.io/csb-vtnepn/static/css/main.e1654867.chunk.css",
-    "main.js": "https://dd20103.github.io/csb-vtnepn/static/js/main.735db25c.chunk.js",
-    "main.js.map": "https://dd20103.github.io/csb-vtnepn/static/js/main.735db25c.chunk.js.map",
+    "main.js": "https://dd20103.github.io/csb-vtnepn/static/js/main.44177028.chunk.js",
+    "main.js.map": "https://dd20103.github.io/csb-vtnepn/static/js/main.44177028.chunk.js.map",
     "runtime-main.js": "https://dd20103.github.io/csb-vtnepn/static/js/runtime-main.c5bb65ad.js",
     "runtime-main.js.map": "https://dd20103.github.io/csb-vtnepn/static/js/runtime-main.c5bb65ad.js.map",
     "static/js/2.b99aae93.chunk.js": "https://dd20103.github.io/csb-vtnepn/static/js/2.b99aae93.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c5bb65ad.js",
     "static/js/2.b99aae93.chunk.js",
     "static/css/main.e1654867.chunk.css",
-    "static/js/main.735db25c.chunk.js"
+    "static/js/main.44177028.chunk.js"
   ]
 }
